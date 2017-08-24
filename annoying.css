@@ -1,0 +1,31 @@
+body {
+  font-family: Helvetica, Arial, sans;
+  background: #f4f4f4; }
+
+input {
+  font-size: 1em;
+  padding: 10px;
+  border-radius: 5px;
+  box-sizing: border-box; }
+input[type=text] {
+  width: 70%;
+  border: 1px solid #ccc; }
+input[type=submit] {
+  -webkit-appearance: none;
+  background: coral;
+  border: 1px solid coral;
+  box-shadow: 0 2px 1px rgba(0, 0, 0, 0.2); }
+
+pre {
+  width: 70%;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.5);
+  white-space: normal;
+  box-sizing: border-box; }
+pre:before {
+  content: "Use this code to annoy someone:";
+  display: block;
+  font-family: Helvetica, Arial, sans;
+  margin-bottom: 10px; }
+
+/*# sourceMappingURL=annoying.css.map */
